@@ -1,6 +1,6 @@
 import React from "react";
 import Weather from "./Weather";
-import Loader from "react-loader-spinner";
+import { Audio } from "react-loader-spinner";
 
 import "./App.css";
 
